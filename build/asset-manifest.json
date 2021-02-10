@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MSU_HW19/static/css/main.88b69c29.chunk.css",
+    "main.js": "/MSU_HW19/static/js/main.fc3bd568.chunk.js",
+    "main.js.map": "/MSU_HW19/static/js/main.fc3bd568.chunk.js.map",
+    "runtime-main.js": "/MSU_HW19/static/js/runtime-main.6c659c5b.js",
+    "runtime-main.js.map": "/MSU_HW19/static/js/runtime-main.6c659c5b.js.map",
+    "static/js/2.2ba8b590.chunk.js": "/MSU_HW19/static/js/2.2ba8b590.chunk.js",
+    "static/js/2.2ba8b590.chunk.js.map": "/MSU_HW19/static/js/2.2ba8b590.chunk.js.map",
+    "index.html": "/MSU_HW19/index.html",
+    "precache-manifest.b972b171b41b95183eb842e1be4fc9f7.js": "/MSU_HW19/precache-manifest.b972b171b41b95183eb842e1be4fc9f7.js",
+    "service-worker.js": "/MSU_HW19/service-worker.js",
+    "static/css/main.88b69c29.chunk.css.map": "/MSU_HW19/static/css/main.88b69c29.chunk.css.map",
+    "static/js/2.2ba8b590.chunk.js.LICENSE.txt": "/MSU_HW19/static/js/2.2ba8b590.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c659c5b.js",
+    "static/js/2.2ba8b590.chunk.js",
+    "static/css/main.88b69c29.chunk.css",
+    "static/js/main.fc3bd568.chunk.js"
+  ]
+}
